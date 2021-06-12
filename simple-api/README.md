@@ -1,0 +1,1 @@
+**Simple api to manage sport type**
